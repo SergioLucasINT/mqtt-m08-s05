@@ -10,3 +10,5 @@ Neste repositório, se encontra o código e um vídeo demonstrando o funcionamen
 - Biblioteca umqtt.simple
 
 # Link do vídeo
+
+https://youtu.be/37xHRIctLOo?si=BlIQGDfjWvSeD_lc
